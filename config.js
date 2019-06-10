@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://atalkwith.dev,
+  title: 'A talk with DEV Blog',
+  subtitle: 'A blog from developers, to developers, by Mauricio.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,14 +23,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Mauricio R Duarte',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Front End Developer and Mobile App Developer',
     contacts: {
       email: '#',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'mauriciord',
+      github: 'mauriciord',
       rss: '#',
       vkontakte: '#'
     }
