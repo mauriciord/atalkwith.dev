@@ -31,7 +31,8 @@ module.exports = {
       telegram: 'mauriciord',
       twitter: 'mauriciord',
       github: 'mauriciord',
-      rss: 'https://atalkwith.dev'
+      rss: 'atalkwith.dev',
+      vkontakte: ''
     }
   }
 };
