@@ -28,11 +28,9 @@ module.exports = {
     bio: 'Front End Developer and Mobile App Developer',
     contacts: {
       email: 'mauriciotem@gmail.com',
-      telegram: 'mauriciord',
       twitter: 'mauriciord',
       github: 'mauriciord',
       rss: 'atalkwith.dev',
-      vkontakte: ''
     }
   }
 };
