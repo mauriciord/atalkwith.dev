@@ -3,7 +3,7 @@ template: post
 title: Resolving Expo Multi Select Photos with React Hooks
 slug: 'expo-multip,e-selection'
 draft: false
-date: 2019-11-21T15:18:31.407Z
+date: 2019-11-26T15:18:31.407Z
 description: >-
   We will talk about how to resolve an issue with Sentry Expo when you create an
   Expo web project from a previous Expo project.
