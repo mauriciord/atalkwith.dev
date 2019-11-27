@@ -1,7 +1,7 @@
 ---
 template: post
 title: Resolving Expo Multi Select Photos with React Hooks
-slug: 'expo-multip,e-selection'
+slug: expo-multiple-selection
 draft: false
 date: 2019-11-26T15:18:31.407Z
 description: >-
