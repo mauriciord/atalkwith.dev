@@ -3,7 +3,7 @@ template: post
 title: Using cross tools with Expo Web and Native
 slug: cross-tools-with-expo
 draft: false
-date: 2019-12-03T02:56:00.000Z
+date: 2019-12-03T02:57:00.000Z
 description: Creating Solutions to Expo Web and Native using file extensions
 category: Expo
 tags:
